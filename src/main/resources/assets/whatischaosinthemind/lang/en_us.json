@@ -1,0 +1,13 @@
+{
+  "itemGroup.whatischaosinthemind": "Example Mod Tab",
+  "block.whatischaosinthemind.example_block": "Example Block",
+  "item.whatischaosinthemind.example_item": "Example Item",
+
+  "whatischaosinthemind.configuration.title": "What Is Chaos In The Mind Configs",
+  "whatischaosinthemind.configuration.section.whatischaosinthemind.common.toml": "What Is Chaos In The Mind Configs",
+  "whatischaosinthemind.configuration.section.whatischaosinthemind.common.toml.title": "What Is Chaos In The Mind Configs",
+  "whatischaosinthemind.configuration.items": "Item List",
+  "whatischaosinthemind.configuration.logDirtBlock": "Log Dirt Block",
+  "whatischaosinthemind.configuration.magicNumberIntroduction": "Magic Number Text",
+  "whatischaosinthemind.configuration.magicNumber": "Magic Number"
+}
